@@ -25,7 +25,7 @@ This is a basic Python game developed using the Pygame library. The objective is
 
 - Control the player using the arrow keys.
 - Shoot bullets by pressing 'F'.
-- Dont Die, Death is Gay
+- Dont Die, Death is Gay (Pootis note: Alex you motherfu-)
 
 ## Dependencies
 
